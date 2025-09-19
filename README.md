@@ -3,7 +3,7 @@
 
 ### Useful Links
 [Google Colab - ZDO Exercise Signpost](https://colab.research.google.com/drive/1Dr5-2dM1CSpyKQAHi7Xjrtql-o8CLN0V#scrollTo=PS_mq6cn3X31)  
-[Your Points](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSyq6m1_nHXe2Md5u7Bv-2Omv-9XqOKWCCEPDy73-eJzkd29CsENp62YClOxAW_mN7ZZpVz9eXbWhXS/pubhtml?gid=1907913423&single=true&range=D1:AB)  
+[Your Points](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSyq6m1_nHXe2Md5u7Bv-2Omv-9XqOKWCCEPDy73-eJzkd29CsENp62YClOxAW_mN7ZZpVz9eXbWhXS/pubhtml?gid=1529748586&single=true&range=D1:AB)  
 [Semestral Work Assignment & Data](https://classroom.google.com/c/NzM4MTIwNzE3MTQ1/p/NzU5NzY4ODE3OTE4/details)
 
 ### Contact
@@ -31,9 +31,9 @@ an individual approach.
 ### Tests
 
 Planned dates for the written tests (during exercises):
-- **Exercise 04** _(March 4, 2025)_
-- **Exercise 08** _(April 1, 2025)_
-- **Exercise 11** _(April 22, 2025)_
+- **Exercise 04**
+- **Exercise 08**
+- **Exercise 11**
 
 ### Points for Semester Work
 
@@ -63,11 +63,11 @@ The exam is oral and covers the lectured material.
 
 ## Important Dates
 
-- **Selection of Semester Work:** by **March 25** _(Exercise 07)_
-- **Submission of the Semester Work Draft:** by **April 14** _(before Exercise 10)_, **11:59 p.m.**
+- **Selection of Semester Work:** by **Exercise 07**  
+- **Submission of the Semester Work Draft:** day before **Exercise 10**, **11:59 p.m.**
   - Preferably electronically to [vyskocj@kky.zcu.cz](mailto:vyskocj@kky.zcu.cz)
-- **Final Submission of the Semester Work:** by **May 19**, **11:59 p.m.**
+- **Final Submission of the Semester Work:** 4 weeks after the **Semester Work Draft date**
   - _Late submissions are penalized with a deduction of 3 points per day._
   - _The submission date can be postponed by agreement, but 18 points will be automatically deducted._
-- **Semester Work Revisions Deadline:** by **June 9**
+- **Semester Work Revisions Deadline:** 3 weeks after the **Final Submission date**
   - Results will be published on the website.
