@@ -3,7 +3,7 @@
 
 ### Useful Links
 [Google Colab - ZDO Exercise Signpost](https://colab.research.google.com/drive/1Dr5-2dM1CSpyKQAHi7Xjrtql-o8CLN0V#scrollTo=PS_mq6cn3X31)  
-[Your Points](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSyq6m1_nHXe2Md5u7Bv-2Omv-9XqOKWCCEPDy73-eJzkd29CsENp62YClOxAW_mN7ZZpVz9eXbWhXS/pubhtml?gid=1450766660&single=true&range=D1:AB)  
+[Your Points](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSyq6m1_nHXe2Md5u7Bv-2Omv-9XqOKWCCEPDy73-eJzkd29CsENp62YClOxAW_mN7ZZpVz9eXbWhXS/pubhtml?gid=1450766660&single=true&range=D1:AC)  
 <!-- [Semestral Work Assignment & Data](https://classroom.google.com/c/MjM1NDMxMzkxODZa/p/MjM1NjkyNjE2MDNa/details) -->
 
 ### Contact
